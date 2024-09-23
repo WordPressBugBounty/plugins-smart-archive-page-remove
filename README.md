@@ -1,0 +1,1 @@
+# plugins-smart-archive-page-remove
